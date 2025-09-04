@@ -1,11 +1,16 @@
 # GraphRAG Workbench
 
+
 A modern, interactive web application for building and visualizing knowledge graphs using Microsoft's [GraphRAG](https://github.com/microsoft/graphrag) framework. Transform your documents into an explorable 3D knowledge graph with advanced AI-powered analysis and querying capabilities.
 
 ![GraphRAG Workbench](https://img.shields.io/badge/GraphRAG-Workbench-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-15.5-black)
 ![React](https://img.shields.io/badge/React-19.1-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+
+
+https://github.com/user-attachments/assets/1f588a45-07ca-4953-92ed-fc888fe28cff
+
 
 ## ✨ Features
 
